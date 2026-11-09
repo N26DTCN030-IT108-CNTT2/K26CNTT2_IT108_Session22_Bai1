@@ -1,0 +1,31 @@
+1. Nhóm câu hỏi về Toán tử Tìm kiếm (Google Search Operators)
+"Em hãy giải thích ý nghĩa chi tiết của từng thành phần trong câu truy vấn của em?"
+
+Gợi ý trả lời: Giải thích tác dụng của dấu "" (tìm chính xác cụm từ), filetype:pdf (chỉ định định dạng file), site:ptit.edu.vn (giới hạn miền tìm kiếm), và toán tử -site: (loại bỏ domain rác).
+
+"Ngoài filetype:pdf, em có thể thay thế bằng toán tử nào tương đương không?"
+
+Gợi ý trả lời: Có thể dùng toán tử ext:pdf (extension).
+
+"Nếu trường không có tên miền .edu.vn mà dùng domain khác (ví dụ .com hoặc .org), em sẽ sửa câu truy vấn như thế nào?"
+
+Gợi ý trả lời: Thay đổi giá trị sau toán tử site:, ví dụ site:ptit.edu.vn hoặc site:rikkei.edu.vn.
+
+"Toán tử - (trừ) hoạt động như thế nào? Cần lưu ý gì khi viết toán tử này trên Google?"
+
+Gợi ý trả lời: Toán tử - loại bỏ các kết quả chứa từ khóa hoặc trang web đằng sau nó. Lưu ý quan trọng: Không được có khoảng trắng giữa dấu - và từ/toán tử phía sau (viết liền dạng -site:123docz.net).
+
+2. Nhóm câu hỏi về Tư duy & Trải nghiệm người dùng (Troubleshooting/Search Skill)
+"Tại sao việc tìm kiếm file PDF bằng filetype: lại an toàn hơn về mặt An toàn thông tin (Cybersecurity)?"
+
+Gợi ý trả lời: Giúp tránh việc tải nhầm các file nén (.zip, .rar) hoặc file thực thi (.exe, .bat) có nguy cơ đính kèm mã độc (malware, phishing, virus) từ các trang web lạ.
+
+"Nếu sau khi dùng combo toán tử này mà Google vẫn không trả về kết quả nào (0 results), em sẽ gỡ lỗi (troubleshoot) tiếp theo như thế nào?"
+
+Gợi ý trả lời:
+
+Nới lỏng phạm vi site: (ví dụ chuyển từ site:ptit.edu.vn thành site:edu.vn).
+
+Bỏ bớt dấu ngoặc kép "" để cho phép Google tìm kiếm theo các từ khóa có độ linh hoạt cao hơn.
+
+Thay đổi/rút gọn cụm từ khóa tìm kiếm chính.
